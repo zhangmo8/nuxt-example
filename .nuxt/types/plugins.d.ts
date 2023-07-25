@@ -9,7 +9,10 @@ type NuxtAppInjections =
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/plugins/revive-payload.server").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/plugins/revive-payload.client").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/head/runtime/plugins/unhead").default> &
-  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/plugins/router").default> &
+  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/pages/runtime/plugins/router").default> &
+  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/pages/runtime/plugins/prefetch.client").default> &
+  InjectionType<typeof import("../../node_modules/.pnpm/@nuxt+devtools@0.6.7_nuxt@3.6.3_vite@4.4.4/node_modules/@nuxt/devtools/dist/runtime/plugins/devtools.server").default> &
+  InjectionType<typeof import("../../node_modules/.pnpm/@nuxt+devtools@0.6.7_nuxt@3.6.3_vite@4.4.4/node_modules/@nuxt/devtools/dist/runtime/plugins/devtools.client").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/plugins/chunk-reload.client").default>
 
 declare module '#app' {

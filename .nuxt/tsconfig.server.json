@@ -12,48 +12,48 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/types/nitro-imports"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
       ],
       "~/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
       ],
       "@": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
       ],
       "@/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
       ],
       "~~": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
       ],
       "~~/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
       ],
       "@@": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
       ],
       "@@/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
       ],
       "assets": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/assets"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/assets"
       ],
       "public": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/public"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/public"
       ],
       "public/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/public/*"
+        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/public/*"
       ]
     }
   },
   "include": [
-    "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
+    "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"

@@ -1,5 +1,5 @@
 
-import { defuFn } from '/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

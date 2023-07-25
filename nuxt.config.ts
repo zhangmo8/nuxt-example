@@ -5,4 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/devtools',
     '@varlet/nuxt'
   ],
+  typescript: {
+    shim: false
+  }
 })

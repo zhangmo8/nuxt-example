@@ -4,7 +4,8 @@ definePageMeta({
   validate: async(route) => {
     console.log('路由进入事件', route);
     return true;
-  },
+  }
+
 })
 
 

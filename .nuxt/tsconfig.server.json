@@ -12,48 +12,48 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/types/nitro-imports"
+        "C:/phil/nuxt-example/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "C:/phil/nuxt-example/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "~/*": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "@": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "@/*": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "~~": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "~~/*": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "@@": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "@@/*": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "assets": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/assets"
+        "C:/phil/nuxt-example/assets"
       ],
       "public": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/public"
+        "C:/phil/nuxt-example/public"
       ],
       "public/*": [
-        "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/public/*"
+        "C:/phil/nuxt-example/public/*"
       ]
     }
   },
   "include": [
-    "C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
+    "C:/phil/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"

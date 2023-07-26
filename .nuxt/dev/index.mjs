@@ -1,25 +1,25 @@
-globalThis._importMeta_={url:import.meta.url,env:process.env};import 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/node-fetch-native@1.2.0/node_modules/node-fetch-native/dist/polyfill.mjs';
+globalThis._importMeta_={url:import.meta.url,env:process.env};import 'file://C:/phil/nuxt-example/node_modules/node-fetch-native/dist/polyfill.mjs';
 import { Server } from 'node:http';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { mkdirSync } from 'node:fs';
 import { parentPort, threadId } from 'node:worker_threads';
-import { defineEventHandler, handleCacheHeaders, createEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, setResponseStatus, getRequestHeader, setResponseHeader, getRequestHeaders, createApp, createRouter as createRouter$1, toNodeListener, fetchWithEvent, lazyEventHandler, getQuery as getQuery$1, createError } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/h3@1.7.1/node_modules/h3/dist/index.mjs';
-import { createRenderer } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/vue-bundle-renderer@1.0.3/node_modules/vue-bundle-renderer/dist/runtime.mjs';
-import { stringify, uneval } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/devalue@4.3.2/node_modules/devalue/index.js';
-import { renderToString } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/vue@3.3.4/node_modules/vue/server-renderer/index.mjs';
-import { createFetch as createFetch$1, Headers } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/ofetch@1.1.1/node_modules/ofetch/dist/node.mjs';
-import destr from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/destr@2.0.0/node_modules/destr/dist/index.mjs';
-import { createCall, createFetch } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/unenv@1.5.2/node_modules/unenv/runtime/fetch/index.mjs';
-import { createHooks } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs';
-import { snakeCase } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/scule@1.0.0/node_modules/scule/dist/index.mjs';
-import { klona } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/klona@2.0.6/node_modules/klona/dist/index.mjs';
-import defu, { defuFn } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs';
-import { hash } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/ohash@1.1.2/node_modules/ohash/dist/index.mjs';
-import { parseURL, withoutBase, joinURL, getQuery, withQuery } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/ufo@1.1.2/node_modules/ufo/dist/index.mjs';
-import { createStorage, prefixStorage } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/unstorage@1.8.0/node_modules/unstorage/dist/index.mjs';
-import unstorage_47drivers_47fs from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/unstorage@1.8.0/node_modules/unstorage/drivers/fs.mjs';
-import { toRouteMatcher, createRouter } from 'file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/node_modules/.pnpm/radix3@1.0.1/node_modules/radix3/dist/index.mjs';
+import { defineEventHandler, handleCacheHeaders, createEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, setResponseStatus, getRequestHeader, setResponseHeader, getRequestHeaders, createApp, createRouter as createRouter$1, toNodeListener, fetchWithEvent, lazyEventHandler, getQuery as getQuery$1, createError } from 'file://C:/phil/nuxt-example/node_modules/h3/dist/index.mjs';
+import { createRenderer } from 'file://C:/phil/nuxt-example/node_modules/vue-bundle-renderer/dist/runtime.mjs';
+import { stringify, uneval } from 'file://C:/phil/nuxt-example/node_modules/devalue/index.js';
+import { renderToString } from 'file://C:/phil/nuxt-example/node_modules/vue/server-renderer/index.mjs';
+import { createFetch as createFetch$1, Headers } from 'file://C:/phil/nuxt-example/node_modules/ofetch/dist/node.mjs';
+import destr from 'file://C:/phil/nuxt-example/node_modules/destr/dist/index.mjs';
+import { createCall, createFetch } from 'file://C:/phil/nuxt-example/node_modules/unenv/runtime/fetch/index.mjs';
+import { createHooks } from 'file://C:/phil/nuxt-example/node_modules/hookable/dist/index.mjs';
+import { snakeCase } from 'file://C:/phil/nuxt-example/node_modules/scule/dist/index.mjs';
+import { klona } from 'file://C:/phil/nuxt-example/node_modules/klona/dist/index.mjs';
+import defu, { defuFn } from 'file://C:/phil/nuxt-example/node_modules/defu/dist/defu.mjs';
+import { hash } from 'file://C:/phil/nuxt-example/node_modules/ohash/dist/index.mjs';
+import { parseURL, withoutBase, joinURL, getQuery, withQuery } from 'file://C:/phil/nuxt-example/node_modules/ufo/dist/index.mjs';
+import { createStorage, prefixStorage } from 'file://C:/phil/nuxt-example/node_modules/unstorage/dist/index.mjs';
+import unstorage_47drivers_47fs from 'file://C:/phil/nuxt-example/node_modules/unstorage/drivers/fs.mjs';
+import { toRouteMatcher, createRouter } from 'file://C:/phil/nuxt-example/node_modules/radix3/dist/index.mjs';
 
 const providers = [
   ["APPVEYOR"],
@@ -191,7 +191,7 @@ new Proxy(/* @__PURE__ */ Object.create(null), {
   }
 });
 
-const serverAssets = [{"baseName":"server","dir":"C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/server/assets"}];
+const serverAssets = [{"baseName":"server","dir":"C:/phil/nuxt-example/server/assets"}];
 
 const assets = createStorage();
 
@@ -203,10 +203,10 @@ const storage = createStorage({});
 
 storage.mount('/assets', assets);
 
-storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\longqiang.chen.CSCAD\\Desktop\\demo\\nuxt-example","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\longqiang.chen.CSCAD\\Desktop\\demo\\nuxt-example\\server","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\longqiang.chen.CSCAD\\Desktop\\demo\\nuxt-example\\.nuxt","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\longqiang.chen.CSCAD\\Desktop\\demo\\nuxt-example\\.nuxt\\cache","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\phil\\nuxt-example","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\phil\\nuxt-example\\server","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\phil\\nuxt-example\\.nuxt","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\phil\\nuxt-example\\.nuxt\\cache","ignore":["**/node_modules/**","**/.git/**"]}));
 
 function useStorage(base = "") {
   return base ? prefixStorage(storage, base) : storage;
@@ -513,14 +513,14 @@ window.__NUXT_DEVTOOLS_TIME_METRIC__ = window.__NUXT_DEVTOOLS_TIME_METRIC__ || {
 window.__NUXT_DEVTOOLS_TIME_METRIC__.appInit = Date.now()
 `;
 
-const _VzbG8iNyib = (function(nitro) {
+const _3Wzvw75PjQ = (function(nitro) {
   nitro.hooks.hook("render:html", (htmlContext) => {
     htmlContext.head.push(`<script>${script}<\/script>`);
   });
 });
 
 const plugins = [
-  _VzbG8iNyib
+  _3Wzvw75PjQ
 ];
 
 function defineRenderHandler(handler) {
@@ -652,11 +652,11 @@ const errorHandler = (async function errorhandler(error, event) {
   event.node.res.end(html);
 });
 
-const _lazy_YWAl6B = () => Promise.resolve().then(function () { return renderer$1; });
+const _lazy_RCx4HC = () => Promise.resolve().then(function () { return renderer$1; });
 
 const handlers = [
-  { route: '/__nuxt_error', handler: _lazy_YWAl6B, lazy: true, middleware: false, method: undefined },
-  { route: '/**', handler: _lazy_YWAl6B, lazy: true, middleware: false, method: undefined }
+  { route: '/__nuxt_error', handler: _lazy_RCx4HC, lazy: true, middleware: false, method: undefined },
+  { route: '/**', handler: _lazy_RCx4HC, lazy: true, middleware: false, method: undefined }
 ];
 
 function createNitroApp() {
@@ -802,9 +802,9 @@ function publicAssetsURL(...path) {
 
 globalThis.__buildAssetsURL = buildAssetsURL;
 globalThis.__publicAssetsURL = publicAssetsURL;
-const getClientManifest = () => import('file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/dist/server/client.manifest.mjs').then((r) => r.default || r).then((r) => typeof r === "function" ? r() : r);
+const getClientManifest = () => import('file://C:/phil/nuxt-example/.nuxt/dist/server/client.manifest.mjs').then((r) => r.default || r).then((r) => typeof r === "function" ? r() : r);
 const getStaticRenderedHead = () => Promise.resolve().then(function () { return _virtual__headStatic$1; }).then((r) => r.default || r);
-const getServerEntry = () => import('file://C:/Users/longqiang.chen.CSCAD/Desktop/demo/nuxt-example/.nuxt/dist/server/server.mjs').then((r) => r.default || r);
+const getServerEntry = () => import('file://C:/phil/nuxt-example/.nuxt/dist/server/server.mjs').then((r) => r.default || r);
 const getSSRStyles = lazyCachedFunction(() => Promise.resolve().then(function () { return styles$1; }).then((r) => r.default || r));
 const getSSRRenderer = lazyCachedFunction(async () => {
   const manifest = await getClientManifest();

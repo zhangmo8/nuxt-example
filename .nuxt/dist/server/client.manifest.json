@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/entry.js": {
+  "C:/phil/nuxt-example/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/phil/nuxt-example/node_modules/nuxt/dist/app/entry.js"
   }
 }

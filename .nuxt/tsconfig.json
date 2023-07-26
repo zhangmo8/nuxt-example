@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "/Users/ssa-user/Desktop/study/nuxt-example",
+    "baseUrl": "C:/phil/nuxt-example",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,61 +18,61 @@
     ],
     "paths": {
       "~": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "~/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "@": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "@/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "~~": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "~~/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "@@": [
-        "/Users/ssa-user/Desktop/study/nuxt-example"
+        "C:/phil/nuxt-example"
       ],
       "@@/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/*"
+        "C:/phil/nuxt-example/*"
       ],
       "assets": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/assets"
+        "C:/phil/nuxt-example/assets"
       ],
       "public": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/public"
+        "C:/phil/nuxt-example/public"
       ],
       "public/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/public/*"
+        "C:/phil/nuxt-example/public/*"
       ],
       "#app": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app"
+        "C:/phil/nuxt-example/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/*"
+        "C:/phil/nuxt-example/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/node_modules/.pnpm/nuxt@3.6.3_@types+node@18.16.19/node_modules/nuxt/dist/app/compat/vue-demi"
+        "C:/phil/nuxt-example/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/vue-router"
+        "C:/phil/nuxt-example/.nuxt/vue-router"
       ],
       "#imports": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/imports"
+        "C:/phil/nuxt-example/.nuxt/imports"
       ],
       "#build": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt"
+        "C:/phil/nuxt-example/.nuxt"
       ],
       "#build/*": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/*"
+        "C:/phil/nuxt-example/.nuxt/*"
       ],
       "#components": [
-        "/Users/ssa-user/Desktop/study/nuxt-example/.nuxt/components"
+        "C:/phil/nuxt-example/.nuxt/components"
       ]
     }
   },
@@ -80,14 +80,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "/Users/ssa-user/Desktop/study/nuxt-example",
-    "/Users/ssa-user/Desktop/study/nuxt-example/*",
-    "/Users/ssa-user/Desktop/study/nuxt-example",
-    "/Users/ssa-user/Desktop/study/nuxt-example/*",
-    "/Users/ssa-user/Desktop/study/nuxt-example",
-    "/Users/ssa-user/Desktop/study/nuxt-example/*",
-    "/Users/ssa-user/Desktop/study/nuxt-example",
-    "/Users/ssa-user/Desktop/study/nuxt-example/*"
+    "C:/phil/nuxt-example",
+    "C:/phil/nuxt-example/*",
+    "C:/phil/nuxt-example",
+    "C:/phil/nuxt-example/*",
+    "C:/phil/nuxt-example",
+    "C:/phil/nuxt-example/*",
+    "C:/phil/nuxt-example",
+    "C:/phil/nuxt-example/*"
   ],
   "exclude": [
     "../dist",

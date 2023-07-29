@@ -28,3 +28,7 @@ router.beforeEach = (to: any, from: any, next: any) => {
 <template>
   <RouterView />
 </template>
+
+<style>
+@import url('/app.css');
+</style>

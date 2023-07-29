@@ -13,6 +13,7 @@
     "@types/node": "^18.16.19",
     "@varlet/nuxt": "^0.0.4",
     "@varlet/ui": "^2.13.0",
-    "nuxt": "^3.6.3"
+    "nuxt": "^3.6.3",
+    "postcss-px-to-viewport": "^1.1.1"
   }
 }

@@ -55,3 +55,8 @@ const swichTheme = () => {
     </template>
   </var-app-bar>
 </template>
+
+
+<style scoped>
+
+</style>

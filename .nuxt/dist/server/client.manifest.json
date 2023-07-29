@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/phil/nuxt-example/node_modules/nuxt/dist/app/entry.js": {
+  "D:/code/nuxt-example/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "C:/phil/nuxt-example/node_modules/nuxt/dist/app/entry.js"
+    "file": "D:/code/nuxt-example/node_modules/nuxt/dist/app/entry.js"
   }
 }

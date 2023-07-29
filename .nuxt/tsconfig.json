@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "C:/phil/nuxt-example",
+    "baseUrl": "D:/code/nuxt-example",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,61 +18,61 @@
     ],
     "paths": {
       "~": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "~/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "@": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "@/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "~~": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "~~/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "@@": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "@@/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "assets": [
-        "C:/phil/nuxt-example/assets"
+        "D:/code/nuxt-example/assets"
       ],
       "public": [
-        "C:/phil/nuxt-example/public"
+        "D:/code/nuxt-example/public"
       ],
       "public/*": [
-        "C:/phil/nuxt-example/public/*"
+        "D:/code/nuxt-example/public/*"
       ],
       "#app": [
-        "C:/phil/nuxt-example/node_modules/nuxt/dist/app"
+        "D:/code/nuxt-example/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "C:/phil/nuxt-example/node_modules/nuxt/dist/app/*"
+        "D:/code/nuxt-example/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "C:/phil/nuxt-example/node_modules/nuxt/dist/app/compat/vue-demi"
+        "D:/code/nuxt-example/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
-        "C:/phil/nuxt-example/.nuxt/vue-router"
+        "D:/code/nuxt-example/.nuxt/vue-router"
       ],
       "#imports": [
-        "C:/phil/nuxt-example/.nuxt/imports"
+        "D:/code/nuxt-example/.nuxt/imports"
       ],
       "#build": [
-        "C:/phil/nuxt-example/.nuxt"
+        "D:/code/nuxt-example/.nuxt"
       ],
       "#build/*": [
-        "C:/phil/nuxt-example/.nuxt/*"
+        "D:/code/nuxt-example/.nuxt/*"
       ],
       "#components": [
-        "C:/phil/nuxt-example/.nuxt/components"
+        "D:/code/nuxt-example/.nuxt/components"
       ]
     }
   },
@@ -80,14 +80,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "C:/phil/nuxt-example",
-    "C:/phil/nuxt-example/*",
-    "C:/phil/nuxt-example",
-    "C:/phil/nuxt-example/*",
-    "C:/phil/nuxt-example",
-    "C:/phil/nuxt-example/*",
-    "C:/phil/nuxt-example",
-    "C:/phil/nuxt-example/*"
+    "D:/code/nuxt-example",
+    "D:/code/nuxt-example/*",
+    "D:/code/nuxt-example",
+    "D:/code/nuxt-example/*",
+    "D:/code/nuxt-example",
+    "D:/code/nuxt-example/*",
+    "D:/code/nuxt-example",
+    "D:/code/nuxt-example/*"
   ],
   "exclude": [
     "../dist",

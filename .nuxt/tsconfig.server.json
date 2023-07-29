@@ -12,48 +12,48 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "C:/phil/nuxt-example/.nuxt/types/nitro-imports"
+        "D:/code/nuxt-example/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "C:/phil/nuxt-example/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "D:/code/nuxt-example/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "~/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "@": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "@/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "~~": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "~~/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "@@": [
-        "C:/phil/nuxt-example"
+        "D:/code/nuxt-example"
       ],
       "@@/*": [
-        "C:/phil/nuxt-example/*"
+        "D:/code/nuxt-example/*"
       ],
       "assets": [
-        "C:/phil/nuxt-example/assets"
+        "D:/code/nuxt-example/assets"
       ],
       "public": [
-        "C:/phil/nuxt-example/public"
+        "D:/code/nuxt-example/public"
       ],
       "public/*": [
-        "C:/phil/nuxt-example/public/*"
+        "D:/code/nuxt-example/public/*"
       ]
     }
   },
   "include": [
-    "C:/phil/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
+    "D:/code/nuxt-example/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"
